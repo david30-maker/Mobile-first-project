@@ -5,12 +5,20 @@
 }
 
 .container {
-position: relative;
-width: 100%;
+position: absolute;
+ width: 80%; 
+ border: solid red;
 /* height: 100vh; */
 /* background: #eff4fd; */
-background-image: url("images/background.png");
-border-bottom-left-radius: 50px;
+/* background-image: url(images/Ellipse\ 3.png), url(images/Ellipse\ 12.png), url(images/Ellipse\ 11.png), url(images/Ellipse\ 13.png) */
+/* url(images/Ellipse\ 4.png), url(images/Ellipse\ 13.png) */
+
+background-image: url(images/Ellipse\ 3.png), url(images/Rectangle\ 4.png), url(images/Ellipse\ 5.png), url(images/Ellipse\ 11.png),
+url(images/Rectangle\ 6.png);
+background-repeat: no-repeat;
+background-position-x: 80%, 70%, 50%, 20%, 20%; 
+background-position-y: 24%, 12%, 15%, 12%, 9%;
+ /* border-bottom-left-radius: 50px; */
 }
 
 .logo {
@@ -21,15 +29,15 @@ border-bottom-left-radius: 50px;
 
 nav {
     display: flex;
-    width: 75%;
+    width: 90%;
     margin: auto;
     padding: 10px;
-    justify-content: center;
-    justify-content: space-around;
+    /* align-items: center; */
+    justify-content: space-around; 
 
 }
 
-nav ul li{
+/*nav ul li{
     display: inline-block;
     list-style: none;
     margin: 10px 20px;
@@ -43,7 +51,9 @@ nav ul li a{
 
 nav ul li a:hover{
 color:aqua;
-}
+} */
+
+
 
 .glo{
     display: flex;
@@ -84,8 +94,18 @@ color:aqua;
     align-items: space-around;
 }
 
-#ellipse-1 {
+    
+    
+
+
+#ellipse-2{
     position: absolute;
-    top: 400px;
-    left: 600px;
+    top: 170px;
+    left: 110%;
 }
+
+/* #rect-1 {
+    position: absolute;
+    top: 100px;
+    right: -50px
+} */
