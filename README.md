@@ -60,17 +60,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖  Mobile first portfolio<a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+Mobile first portfolio is about building a responsive portfolio for mobile devices usage. In this project, I use Html and CSS to make my oportfolio responsive on mobile devices.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 HTML<a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### CSS<a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -99,9 +97,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **HTML**
+- **CSS**
+- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,13 +117,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+A new develpoer can use this project to learn how to build a portfolio.
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
 
 <!--
 Example command:
@@ -137,7 +130,6 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
 
 <!--
 Example commands:
@@ -150,7 +142,6 @@ Example commands:
 
 ### Install
 
-Install this project with:
 
 <!--
 Example command:
@@ -163,7 +154,6 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
 
 <!--
 Example command:
@@ -173,9 +163,6 @@ Example command:
 ```
 --->
 
-### Run tests
-
-To run tests, run the following command:
 
 <!--
 Example command:
@@ -183,9 +170,7 @@ Example command:
 ```sh
   bin/rails test test/models/article_test.rb
 ```
---->
-
-### Deployment
+-
 
 You can deploy this project using:
 
@@ -201,15 +186,15 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **David Igbo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@david30-maker](https://github.com/githubhandle)
+- Twitter: [@davidigbo](https://twitter.com/twitterhandle)
+- LinkedIn: [linkedin.com/in/dvid-igbo-464196184/]](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
@@ -217,43 +202,43 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+<!-- ## 🔭 Future Features <a name="future-features"></a> -->
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **arcticle section**
+- [ ] **button**
+- [ ] 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+<!--## 🤝 Contributing <a name="contributing"></a>-->
 
-Contributions, issues, and feature requests are welcome!
+C<!--ontributions, issues, and feature requests are welcome! -->
 
-Feel free to check the [issues page](../../issues/).
+<!--Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+<!--## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
 If you like this project...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+<!--## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
@@ -263,11 +248,11 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ (OPTIONAL) <a name="faq"></a> -->
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+> <!--Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+<!-- **[Question_1]**
 
   - [Answer_1]
 
@@ -275,14 +260,14 @@ I would like to thank...
 
   - [Answer_2]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+<!--## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->

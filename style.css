@@ -5,7 +5,7 @@
 
 
 .container {
-    border: solid red;
+    /*border: solid red; */
     background-image: url(images/ellipse_3.png), url(images/ellipse_4.png), url(images/ellipse_8.png), url(images/ellipse_10.png), url(images/ellipse_11.png),
     url(images/Rectangle_4.png), url(images/ellipse_9.png), url(images/Rectangle_6.png), url(images/ellipse_12.png), 
     url(images/Rectangle_5.png), url(images/Rectangle_7.png), url(images/ellipse_12.png), url(images/ellipse_5.png), 
