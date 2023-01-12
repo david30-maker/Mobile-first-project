@@ -1,63 +1,71 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-
 .container {
-    /*border: solid red; */
-    background-image: url(images/ellipse_3.png), url(images/ellipse_4.png), url(images/ellipse_8.png), url(images/ellipse_10.png), url(images/ellipse_11.png),
-    url(images/Rectangle_4.png), url(images/ellipse_9.png), url(images/Rectangle_6.png), url(images/ellipse_12.png), 
-    url(images/Rectangle_5.png), url(images/Rectangle_7.png), url(images/ellipse_12.png), url(images/ellipse_5.png), 
+  /* border: solid red; */
+  background-image:
+    url(images/ellipse_3.png),
+    url(images/ellipse_4.png),
+    url(images/ellipse_8.png),
+    url(images/ellipse_10.png),
+    url(images/ellipse_11.png),
+    url(images/Rectangle_4.png),
+    url(images/ellipse_9.png),
+    url(images/Rectangle_6.png),
+    url(images/ellipse_12.png),
+    url(images/Rectangle_5.png),
+    url(images/Rectangle_7.png),
+    url(images/ellipse_12.png),
+    url(images/ellipse_5.png),
     url(images/ellipse_7.png);
-    background-position-x: 138%, 71%, 20%, 80%, 76%, 115%, -8%, -18%, 60%, 60%, 40%, 42%, 65%, 10%; 
-    background-position-y: 20%, 95%, 87%, 78%, 82%, 5%, 15%, 15%, 15%, 100%, 15%, 17%, 45%, 96%;
-    background-repeat: no-repeat;
+  background-position-x: 138%, 71%, 20%, 80%, 76%, 115%, -8%, -18%, 60%, 60%, 40%, 42%, 65%, 10%;
+  background-position-y: 20%, 95%, 87%, 78%, 82%, 5%, 15%, 15%, 15%, 100%, 15%, 17%, 45%, 96%;
+  background-repeat: no-repeat;
 }
 
 .logo {
-    font-weight: bolder;
-    color: blue;
+  font-weight: bolder;
+  color: blue;
 }
-
 
 nav {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    font-family: "Poppins";
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  font-style: "Poppins";
 }
 
-
 .glo {
-    display: flex;
-    flex-direction: column;
-    padding: 80px 20px;
-    font-family: "Poppins";
+  display: flex;
+  flex-direction: column;
+  padding: 80px 20px;
+  font-style: "Poppins";
 }
 
 .glo h1 {
-    font-size: 300%;
-    margin-bottom: 10px;
+  font-size: 300%;
+  margin-bottom: 10px;
 }
 
 .glo p {
-    font-weight: 400px;
-    font-size: 20px;
-    line-height: 28px;
+  font-weight: 400px;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 .glo a {
-    text-decoration: none;
-    font-weight: bold;
-    display: inline-block;
-    margin: 10px 0;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin: 10px 0;
 }
 
 .images {
-    display: flex;
-    justify-content: space-between;
-    align-items: start;
-    width: 50%;
-    margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  width: 50%;
+  margin: 10px 0;
 }
