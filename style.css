@@ -6,21 +6,19 @@
 .container {
   background-image:
     url(images/ellipse_3.png),
-    url(images/ellipse_4.png),
-    url(images/ellipse_8.png),
-    url(images/ellipse_10.png),
+    url(images/Ellipse_4.png),
+    url(images/Ellipse_6.png),
     url(images/ellipse_11.png),
     url(images/Rectangle_4.png),
-    url(images/ellipse_9.png),
     url(images/Rectangle_6.png),
-    url(images/ellipse_12.png),
     url(images/Rectangle_5.png),
     url(images/Rectangle_7.png),
     url(images/ellipse_12.png),
     url(images/ellipse_5.png),
-    url(images/ellipse_7.png); 
-  background-position-x: 138%, 71%, 20%, 80%, 76%, 115%, -8%, -18%, 60%, 60%, 40%, 42%, 65%, 10%;
-  background-position-y: 20%, 95%, 87%, 78%, 82%, 5%, 15%, 15%, 15%, 100%, 15%, 17%, 45%, 96%;
+    url(images/ellipse_7.png),
+    url(images/Ellipse_13.png); 
+  background-position-x: 128%, 57%, 6%, -6%, 104%, -11%, 50%, 27%, 71%, 30%, 65%, 68%;
+  background-position-y: 22%, 87%, 95%, 20%, 16%, 18%, 90%, 20%, 70%, 21%, 16%, 72%;
   background-repeat: no-repeat;
 }
 
