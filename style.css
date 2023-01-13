@@ -4,7 +4,6 @@
 }
 
 .container {
-  /* border: solid red; */
   background-image:
     url(images/ellipse_3.png),
     url(images/ellipse_4.png),
@@ -19,7 +18,7 @@
     url(images/Rectangle_7.png),
     url(images/ellipse_12.png),
     url(images/ellipse_5.png),
-    url(images/ellipse_7.png);
+    url(images/ellipse_7.png); 
   background-position-x: 138%, 71%, 20%, 80%, 76%, 115%, -8%, -18%, 60%, 60%, 40%, 42%, 65%, 10%;
   background-position-y: 20%, 95%, 87%, 78%, 82%, 5%, 15%, 15%, 15%, 100%, 15%, 17%, 45%, 96%;
   background-repeat: no-repeat;
@@ -30,42 +29,52 @@
   color: blue;
 }
 
-nav {
+header {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 25px 40px;
   font-family: "Poppins";
 }
 
-.glo {
+header a{
+  text-decoration: none;
+}
+
+.section-1 {
   display: flex;
   flex-direction: column;
-  padding: 80px 20px;
+  padding: 150px 40px;
   font-family: "Poppins";
+  
 }
 
-.glo h1 {
+.section-1 h1 {
   font-size: 300%;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
-.glo p {
+.section-1 p {
   font-weight: 400px;
   font-size: 20px;
   line-height: 28px;
 }
 
-.glo a {
+.section-1 a {
   text-decoration: none;
   font-weight: bold;
   display: inline-block;
   margin: 10px 0;
 }
 
-.images {
+.social-image {
   display: flex;
   justify-content: space-between;
   align-items: start;
   width: 50%;
   margin: 10px 0;
+  
+}
+
+.social-image li{
+list-style: none;
 }
