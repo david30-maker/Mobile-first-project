@@ -21,7 +21,7 @@
     url(images/ellipse_5.png);
   background-position-x: 116%, 71.9%, 6%, -4%, 107.5%, -8%, 67%, 31.7%, 87%, 85%, 86%, 70%, 14%, 29.8%;
   background-position-y: 22%, 93%, 90%, 15%, 16.4%, 13%, 95%, 20%, 73%, 43%, 74.9%, 14%, 91%, 21%;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
 }
 
 .logo {
