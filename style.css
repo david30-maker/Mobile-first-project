@@ -34,14 +34,14 @@ nav {
   display: flex;
   justify-content: space-between;
   padding: 20px;
-  font-style: "Poppins";
+  font-family: "Poppins";
 }
 
 .glo {
   display: flex;
   flex-direction: column;
   padding: 80px 20px;
-  font-style: "Poppins";
+  font-family: "Poppins";
 }
 
 .glo h1 {
