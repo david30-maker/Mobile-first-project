@@ -16,9 +16,10 @@
     url(images/ellipse_12.png),
     url(images/ellipse_5.png),
     url(images/ellipse_7.png),
-    url(images/Ellipse_13.png);
-  background-position-x: 128%, 57%, 6%, -6%, 104%, -11%, 50%, 27%, 71%, 30%, 65%, 68%;
-  background-position-y: 22%, 87%, 95%, 20%, 16%, 18%, 90%, 20%, 70%, 21%, 16%, 72%;
+    url(images/Ellipse_13.png),
+    url(images/Ellipse_2.png);
+  background-position-x: 116%, 71.9%, 6%, -4%, 107.5%, -8%, 67%, 70%, 87%, 30%, 65%, 86%;
+  background-position-y: 22%, 93%, 90%, 15%, 16.4%, 13%, 95%, 60%, 73%, 21%, 16%, 74.9%;
   background-repeat: no-repeat;
 }
 
@@ -69,6 +70,7 @@ header a {
   display: inline-block;
   margin: 10px 0;
   color: #6070ff;
+  
 }
 
 .social-image {
@@ -76,7 +78,7 @@ header a {
   justify-content: space-between;
   align-items: start;
   width: 50%;
-  margin: 10px 0;
+  margin-bottom: 15px;
 }
 
 .social-image li {
