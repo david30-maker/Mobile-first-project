@@ -118,69 +118,30 @@ Mobile first portfolio is about building a responsive portfolio for mobile devic
 ## 💻 Getting Started <a name="getting-started"></a>
 
 A new develpoer can use this project to learn how to build a portfolio.
+To get a local copy up and running, follow these steps.
 
+   git clone git@github.com:david30-maker/Mobile-first-project.git
+Prerequisites
+In order to run this project you need:
 
-<!--
-Example command:
+NodeJS
+Browser
+Setup
+Clone this repository to your desired folder:
 
-```sh
- gem install rails
-```
- -->
+  git clone git@github.com:david30-maker/Mobile-first-project.git
+  cd Mobile-first-project
 
-### Setup
+Install:
+Install project dependencies in this project with:
 
+  npm install
 
-<!--
-Example commands:
+Usage:
+To run the project, open the project with live server and visit http://localhost:5500
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
--
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Open in browser
+http://localhost:5500
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

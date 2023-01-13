@@ -23,8 +23,14 @@
 }
 
 .logo {
-  font-weight: bolder;
-  color: blue;
+  color: #6070FF;
+  width: 76px;
+  height: 20px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
 }
 
 header {
@@ -62,6 +68,7 @@ header a{
   font-weight: bold;
   display: inline-block;
   margin: 10px 0;
+  color: #6070FF;
 }
 
 .social-image {
