@@ -14,12 +14,13 @@
     url(images/Rectangle_5.png),
     url(images/Rectangle_7.png),
     url(images/ellipse_12.png),
-    url(images/ellipse_5.png),
-    url(images/ellipse_7.png),
+    url(images/Ellipse_8.png),
     url(images/Ellipse_13.png),
-    url(images/Ellipse_2.png);
-  background-position-x: 116%, 71.9%, 6%, -4%, 107.5%, -8%, 67%, 70%, 87%, 30%, 65%, 86%;
-  background-position-y: 22%, 93%, 90%, 15%, 16.4%, 13%, 95%, 60%, 73%, 21%, 16%, 74.9%;
+    url(images/Ellipse_2.png),
+    url(images/ellipse_7.png),
+    url(images/ellipse_5.png);
+  background-position-x: 116%, 71.9%, 6%, -4%, 107.5%, -8%, 67%, 31.7%, 87%, 85%, 86%, 70%, 14%, 29.8%;
+  background-position-y: 22%, 93%, 90%, 15%, 16.4%, 13%, 95%, 20%, 73%, 43%, 74.9%, 14%, 91%, 21%;
   background-repeat: no-repeat;
 }
 
